@@ -1,7 +1,7 @@
 # airline-java1-
 program for Airline to manage domestic flights information using java
+
 Program Tasks Overview :
-  You need to write a program for Airline to manage domestic flights information. The program should enable the flights data manager to complete the following tasks:
 - Add a new flight to the flights list.
 - Find the information about a flight given its number.
 - Print all the flights.
